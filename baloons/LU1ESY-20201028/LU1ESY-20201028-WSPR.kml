@@ -11,62 +11,42 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="9">
-            <IconStyle id="10">
+        <Style id="11">
+            <IconStyle id="12">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="11">
+                <Icon id="13">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="14">
-            <IconStyle id="15">
+        <Style id="18">
+            <IconStyle id="19">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="16">
+                <Icon id="20">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="19">
-            <IconStyle id="20">
+        <Style id="25">
+            <IconStyle id="26">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="21">
+                <Icon id="27">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="24">
-            <IconStyle id="25">
+        <Style id="32">
+            <IconStyle id="33">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="26">
-                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="29">
-            <IconStyle id="30">
-                <colorMode>normal</colorMode>
-                <scale>3</scale>
-                <heading>0</heading>
-                <Icon id="31">
-                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="34">
-            <IconStyle id="35">
-                <colorMode>normal</colorMode>
-                <scale>3</scale>
-                <heading>0</heading>
-                <Icon id="36">
+                <Icon id="34">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
@@ -81,62 +61,42 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="44">
-            <IconStyle id="45">
+        <Style id="46">
+            <IconStyle id="47">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="46">
+                <Icon id="48">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="49">
-            <IconStyle id="50">
+        <Style id="53">
+            <IconStyle id="54">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="51">
+                <Icon id="55">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="54">
-            <IconStyle id="55">
+        <Style id="60">
+            <IconStyle id="61">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="56">
+                <Icon id="62">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="59">
-            <IconStyle id="60">
+        <Style id="67">
+            <IconStyle id="68">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="61">
-                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="64">
-            <IconStyle id="65">
-                <colorMode>normal</colorMode>
-                <scale>3</scale>
-                <heading>0</heading>
-                <Icon id="66">
-                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="69">
-            <IconStyle id="70">
-                <colorMode>normal</colorMode>
-                <scale>3</scale>
-                <heading>0</heading>
-                <Icon id="71">
+                <Icon id="69">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
@@ -151,62 +111,42 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="79">
-            <IconStyle id="80">
+        <Style id="81">
+            <IconStyle id="82">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="81">
+                <Icon id="83">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="84">
-            <IconStyle id="85">
+        <Style id="88">
+            <IconStyle id="89">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="86">
+                <Icon id="90">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="89">
-            <IconStyle id="90">
+        <Style id="95">
+            <IconStyle id="96">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="91">
+                <Icon id="97">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="94">
-            <IconStyle id="95">
+        <Style id="102">
+            <IconStyle id="103">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="96">
-                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="99">
-            <IconStyle id="100">
-                <colorMode>normal</colorMode>
-                <scale>3</scale>
-                <heading>0</heading>
-                <Icon id="101">
-                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="104">
-            <IconStyle id="105">
-                <colorMode>normal</colorMode>
-                <scale>3</scale>
-                <heading>0</heading>
-                <Icon id="106">
+                <Icon id="104">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
@@ -221,28 +161,168 @@
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="114">
-            <IconStyle id="115">
+        <Style id="116">
+            <IconStyle id="117">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="116">
+                <Icon id="118">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="119">
-            <IconStyle id="120">
+        <Style id="123">
+            <IconStyle id="124">
                 <colorMode>normal</colorMode>
                 <scale>3</scale>
                 <heading>0</heading>
-                <Icon id="121">
+                <Icon id="125">
                     <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
                 </Icon>
             </IconStyle>
         </Style>
-        <Style id="124">
-            <LineStyle id="125">
+        <Style id="130">
+            <IconStyle id="131">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="132">
+                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="137">
+            <IconStyle id="138">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="139">
+                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="144">
+            <IconStyle id="145">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="146">
+                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="151">
+            <IconStyle id="152">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="153">
+                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="158">
+            <IconStyle id="159">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="160">
+                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="165">
+            <IconStyle id="166">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="167">
+                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="172">
+            <IconStyle id="173">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="174">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="177">
+            <IconStyle id="178">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="179">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="182">
+            <IconStyle id="183">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="184">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="187">
+            <IconStyle id="188">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="189">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="192">
+            <IconStyle id="193">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="194">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="197">
+            <IconStyle id="198">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="199">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="202">
+            <IconStyle id="203">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="204">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="207">
+            <IconStyle id="208">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="209">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="212">
+            <LineStyle id="213">
                 <color>ff0000ff</color>
                 <colorMode>normal</colorMode>
                 <width>3</width>
@@ -256,171 +336,398 @@
             </Point>
         </Placemark>
         <Placemark id="8">
+            <name>LW8EXS</name>
+            <description/>
+            <LineString id="7">
+                <coordinates>-59.4167,-34.6667,0.0 -52,-38,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="10">
             <name>2020-10-28 #1</name>
-            <styleUrl>#9</styleUrl>
-            <Point id="7">
+            <styleUrl>#11</styleUrl>
+            <Point id="9">
                 <coordinates>-52,-39,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="13">
+        <Placemark id="15">
+            <name>PY2SDR</name>
+            <description/>
+            <LineString id="14">
+                <coordinates>-48.4167,-23.125,0.0 -52,-39,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="17">
             <name>2020-10-28 #2</name>
-            <styleUrl>#14</styleUrl>
-            <Point id="12">
+            <styleUrl>#18</styleUrl>
+            <Point id="16">
                 <coordinates>-52,-40,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18">
+        <Placemark id="22">
+            <name>LU1ESY1</name>
+            <description/>
+            <LineString id="21">
+                <coordinates>-58.6667,-34.6667,0.0 -52,-40,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="24">
             <name>2020-10-28 #3</name>
-            <styleUrl>#19</styleUrl>
-            <Point id="17">
+            <styleUrl>#25</styleUrl>
+            <Point id="23">
                 <coordinates>-50,-40,0.0</coordinates>
             </Point>
+            <altitude>10000.0</altitude>
         </Placemark>
-        <Placemark id="23">
+        <Placemark id="29">
+            <name>PY2SDR</name>
+            <description/>
+            <LineString id="28">
+                <coordinates>-48.4167,-23.125,0.0 -50,-40,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="31">
             <name>2020-10-28 #4</name>
-            <styleUrl>#24</styleUrl>
-            <Point id="22">
+            <styleUrl>#32</styleUrl>
+            <Point id="30">
                 <coordinates>-50,-41,0.0</coordinates>
             </Point>
+            <altitude>10000.0</altitude>
         </Placemark>
-        <Placemark id="28">
+        <Placemark id="36">
+            <name>LU1KCQ1</name>
+            <description/>
+            <LineString id="35">
+                <coordinates>-65.3333,-26.8333,0.0 -50,-41,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="38">
             <name>2020-10-29 #5</name>
-            <styleUrl>#29</styleUrl>
-            <Point id="27">
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
                 <coordinates>-24,-51,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="33">
+        <Placemark id="43">
+            <name>DP0GVN</name>
+            <description/>
+            <LineString id="42">
+                <coordinates>-8.33333,-70.6667,0.0 -24,-51,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="45">
             <name>2020-10-29 #6</name>
-            <styleUrl>#34</styleUrl>
-            <Point id="32">
+            <styleUrl>#46</styleUrl>
+            <Point id="44">
                 <coordinates>-22,-51,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="38">
+        <Placemark id="50">
+            <name>PT2FHC</name>
+            <description/>
+            <LineString id="49">
+                <coordinates>-47.8333,-15.75,0.0 -22,-51,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="52">
             <name>2020-10-29 #7</name>
-            <styleUrl>#39</styleUrl>
-            <Point id="37">
+            <styleUrl>#53</styleUrl>
+            <Point id="51">
                 <coordinates>-20,-51,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="43">
+        <Placemark id="57">
+            <name>DP0GVN</name>
+            <description/>
+            <LineString id="56">
+                <coordinates>-8.33333,-70.6667,0.0 -20,-51,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="59">
             <name>2020-10-29 #8</name>
-            <styleUrl>#44</styleUrl>
-            <Point id="42">
+            <styleUrl>#60</styleUrl>
+            <Point id="58">
                 <coordinates>-20,-50,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="48">
+        <Placemark id="64">
+            <name>PY2GN</name>
+            <description/>
+            <LineString id="63">
+                <coordinates>-48.4167,-23.125,0.0 -20,-50,0.0</coordinates>
+            </LineString>
+            <altitude>10000.0</altitude>
+        </Placemark>
+        <Placemark id="66">
             <name>2020-10-29 #9</name>
-            <styleUrl>#49</styleUrl>
-            <Point id="47">
+            <styleUrl>#67</styleUrl>
+            <Point id="65">
                 <coordinates>-18,-50,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="53">
+        <Placemark id="71">
+            <name>DP0GVN</name>
+            <description/>
+            <LineString id="70">
+                <coordinates>-8.33333,-70.6667,0.0 -18,-50,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="73">
             <name>2020-10-29 #10</name>
-            <styleUrl>#54</styleUrl>
-            <Point id="52">
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
                 <coordinates>-16,-50,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="58">
+        <Placemark id="78">
+            <name>DP0GVN</name>
+            <description/>
+            <LineString id="77">
+                <coordinates>-8.33333,-70.6667,0.0 -16,-50,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="80">
             <name>2020-10-29 #11</name>
-            <styleUrl>#59</styleUrl>
-            <Point id="57">
+            <styleUrl>#81</styleUrl>
+            <Point id="79">
                 <coordinates>-14,-49,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="63">
+        <Placemark id="85">
+            <name>PY2SDR</name>
+            <description/>
+            <LineString id="84">
+                <coordinates>-48.4167,-23.125,0.0 -14,-49,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="87">
             <name>2020-10-29 #12</name>
-            <styleUrl>#64</styleUrl>
-            <Point id="62">
+            <styleUrl>#88</styleUrl>
+            <Point id="86">
                 <coordinates>-12,-48,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="68">
+        <Placemark id="92">
+            <name>DP0GVN</name>
+            <description/>
+            <LineString id="91">
+                <coordinates>-8.33333,-70.6667,0.0 -12,-48,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="94">
             <name>2020-10-29 #13</name>
-            <styleUrl>#69</styleUrl>
-            <Point id="67">
+            <styleUrl>#95</styleUrl>
+            <Point id="93">
                 <coordinates>-10,-48,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="73">
+        <Placemark id="99">
+            <name>DP0GVN</name>
+            <description/>
+            <LineString id="98">
+                <coordinates>-8.33333,-70.6667,0.0 -10,-48,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="101">
             <name>2020-10-29 #14</name>
-            <styleUrl>#74</styleUrl>
-            <Point id="72">
+            <styleUrl>#102</styleUrl>
+            <Point id="100">
                 <coordinates>-10,-47,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="78">
+        <Placemark id="106">
+            <name>DP0GVN</name>
+            <description/>
+            <LineString id="105">
+                <coordinates>-8.33333,-70.6667,0.0 -10,-47,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="108">
             <name>2020-10-29 #15</name>
-            <styleUrl>#79</styleUrl>
-            <Point id="77">
+            <styleUrl>#109</styleUrl>
+            <Point id="107">
                 <coordinates>-8,-47,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="83">
+        <Placemark id="113">
+            <name>ZS6VOL</name>
+            <description/>
+            <LineString id="112">
+                <coordinates>28.25,-25.7917,0.0 -8,-47,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="115">
             <name>2020-10-30 #16</name>
-            <styleUrl>#84</styleUrl>
-            <Point id="82">
+            <styleUrl>#116</styleUrl>
+            <Point id="114">
                 <coordinates>0,-34,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="88">
+        <Placemark id="120">
+            <name>DP0GVN</name>
+            <description/>
+            <LineString id="119">
+                <coordinates>-8.33333,-70.6667,0.0 0,-34,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="122">
             <name>2020-10-30 #17</name>
-            <styleUrl>#89</styleUrl>
-            <Point id="87">
+            <styleUrl>#123</styleUrl>
+            <Point id="121">
                 <coordinates>0,-33,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="93">
+        <Placemark id="127">
+            <name>DP0GVN</name>
+            <description/>
+            <LineString id="126">
+                <coordinates>-8.33333,-70.6667,0.0 0,-33,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="129">
             <name>2020-10-30 #18</name>
-            <styleUrl>#94</styleUrl>
-            <Point id="92">
+            <styleUrl>#130</styleUrl>
+            <Point id="128">
                 <coordinates>-2,-33,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="98">
+        <Placemark id="134">
+            <name>DP0GVN</name>
+            <description/>
+            <LineString id="133">
+                <coordinates>-8.33333,-70.6667,0.0 -2,-33,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="136">
             <name>2020-10-30 #19</name>
-            <styleUrl>#99</styleUrl>
-            <Point id="97">
+            <styleUrl>#137</styleUrl>
+            <Point id="135">
                 <coordinates>-2,-32,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="103">
+        <Placemark id="141">
+            <name>DP0GVN</name>
+            <description/>
+            <LineString id="140">
+                <coordinates>-8.33333,-70.6667,0.0 -2,-32,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="143">
             <name>2020-10-31 #20</name>
-            <styleUrl>#104</styleUrl>
-            <Point id="102">
+            <styleUrl>#144</styleUrl>
+            <Point id="142">
                 <coordinates>-10,-28,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="108">
+        <Placemark id="148">
+            <name>PY2GN</name>
+            <description/>
+            <LineString id="147">
+                <coordinates>-48.4167,-23.125,0.0 -10,-28,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="150">
             <name>2020-10-31 #21</name>
-            <styleUrl>#109</styleUrl>
-            <Point id="107">
+            <styleUrl>#151</styleUrl>
+            <Point id="149">
                 <coordinates>-10,-26,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="113">
+        <Placemark id="155">
+            <name>PY2SDR</name>
+            <description/>
+            <LineString id="154">
+                <coordinates>-48.4167,-23.125,0.0 -10,-26,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="157">
             <name>2020-10-31 #22</name>
-            <styleUrl>#114</styleUrl>
-            <Point id="112">
-                <coordinates>-8,-26,0.0</coordinates>
+            <styleUrl>#158</styleUrl>
+            <Point id="156">
+                <coordinates>-8,-26,3000.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="118">
+        <Placemark id="162">
+            <name>PY2SDR</name>
+            <description/>
+            <LineString id="161">
+                <coordinates>-48.4167,-23.125,0.0 -8,-26,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="164">
             <name>2020-10-31 #23</name>
-            <styleUrl>#119</styleUrl>
-            <Point id="117">
+            <styleUrl>#165</styleUrl>
+            <Point id="163">
                 <coordinates>-6,-26,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="123">
+        <Placemark id="169">
+            <name>PY2SDR</name>
+            <description/>
+            <LineString id="168">
+                <coordinates>-48.4167,-23.125,0.0 -6,-26,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="171">
+            <name>LW8EXS</name>
+            <styleUrl>#172</styleUrl>
+            <Point id="170">
+                <coordinates>-59.4167,-34.6667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="176">
+            <name>PY2SDR</name>
+            <styleUrl>#177</styleUrl>
+            <Point id="175">
+                <coordinates>-48.4167,-23.125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>LU1ESY1</name>
+            <styleUrl>#182</styleUrl>
+            <Point id="180">
+                <coordinates>-58.6667,-34.6667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="186">
+            <name>LU1KCQ1</name>
+            <styleUrl>#187</styleUrl>
+            <Point id="185">
+                <coordinates>-65.3333,-26.8333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>DP0GVN</name>
+            <styleUrl>#192</styleUrl>
+            <Point id="190">
+                <coordinates>-8.33333,-70.6667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="196">
+            <name>PT2FHC</name>
+            <styleUrl>#197</styleUrl>
+            <Point id="195">
+                <coordinates>-47.8333,-15.75,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>PY2GN</name>
+            <styleUrl>#202</styleUrl>
+            <Point id="200">
+                <coordinates>-48.4167,-23.125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="206">
+            <name>ZS6VOL</name>
+            <styleUrl>#207</styleUrl>
+            <Point id="205">
+                <coordinates>28.25,-25.7917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
             <name>LU1ESY</name>
             <description>LU1ESY Flight Path</description>
-            <styleUrl>#124</styleUrl>
-            <LineString id="122">
+            <styleUrl>#212</styleUrl>
+            <LineString id="210">
                 <coordinates>-52,-38,0.0 -52,-39,0.0 -52,-40,0.0 -50,-40,0.0 -50,-41,0.0 -24,-51,0.0 -22,-51,0.0 -20,-51,0.0 -20,-50,0.0 -18,-50,0.0 -16,-50,0.0 -14,-49,0.0 -12,-48,0.0 -10,-48,0.0 -10,-47,0.0 -8,-47,0.0 0,-34,0.0 0,-33,0.0 -2,-33,0.0 -2,-32,0.0 -10,-28,0.0 -10,-26,0.0 -8,-26,0.0 -6,-26,0.0</coordinates>
             </LineString>
         </Placemark>
