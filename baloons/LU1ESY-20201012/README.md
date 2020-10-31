@@ -11,3 +11,5 @@
 [View TLM](https://github.com/lu1aat/TLM/blob/main/baloons/LU1ESY-20201012/LU1ESY-20201012-WSPR.csv)
 
 [Download TLM](https://github.com/lu1aat/TLM/raw/main/baloons/LU1ESY-20201012/LU1ESY-20201012-WSPR.csv)
+
+[KML File for Google Earth](https://github.com/lu1aat/TLM/blob/main/baloons/LU1ESY-20201012/LU1ESY-20201012-WSPR.kml)
