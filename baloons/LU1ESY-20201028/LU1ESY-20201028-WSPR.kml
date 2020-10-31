@@ -234,10 +234,10 @@
         <Style id="165">
             <IconStyle id="166">
                 <colorMode>normal</colorMode>
-                <scale>3</scale>
+                <scale>6</scale>
                 <heading>0</heading>
                 <Icon id="167">
-                    <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
                 </Icon>
             </IconStyle>
         </Style>
@@ -332,7 +332,8 @@
             <name>2020-10-28 #0</name>
             <styleUrl>#4</styleUrl>
             <Point id="2">
-                <coordinates>-52,-38,0.0</coordinates>
+                <coordinates>-52,-38,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="8">
@@ -346,7 +347,8 @@
             <name>2020-10-28 #1</name>
             <styleUrl>#11</styleUrl>
             <Point id="9">
-                <coordinates>-52,-39,0.0</coordinates>
+                <coordinates>-52,-39,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="15">
@@ -360,7 +362,8 @@
             <name>2020-10-28 #2</name>
             <styleUrl>#18</styleUrl>
             <Point id="16">
-                <coordinates>-52,-40,0.0</coordinates>
+                <coordinates>-52,-40,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="22">
@@ -374,9 +377,9 @@
             <name>2020-10-28 #3</name>
             <styleUrl>#25</styleUrl>
             <Point id="23">
-                <coordinates>-50,-40,0.0</coordinates>
+                <coordinates>-50,-40,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
-            <altitude>10000.0</altitude>
         </Placemark>
         <Placemark id="29">
             <name>PY2SDR</name>
@@ -389,9 +392,9 @@
             <name>2020-10-28 #4</name>
             <styleUrl>#32</styleUrl>
             <Point id="30">
-                <coordinates>-50,-41,0.0</coordinates>
+                <coordinates>-50,-41,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
-            <altitude>10000.0</altitude>
         </Placemark>
         <Placemark id="36">
             <name>LU1KCQ1</name>
@@ -404,7 +407,8 @@
             <name>2020-10-29 #5</name>
             <styleUrl>#39</styleUrl>
             <Point id="37">
-                <coordinates>-24,-51,0.0</coordinates>
+                <coordinates>-24,-51,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="43">
@@ -418,7 +422,8 @@
             <name>2020-10-29 #6</name>
             <styleUrl>#46</styleUrl>
             <Point id="44">
-                <coordinates>-22,-51,0.0</coordinates>
+                <coordinates>-22,-51,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="50">
@@ -432,7 +437,8 @@
             <name>2020-10-29 #7</name>
             <styleUrl>#53</styleUrl>
             <Point id="51">
-                <coordinates>-20,-51,0.0</coordinates>
+                <coordinates>-20,-51,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="57">
@@ -446,7 +452,8 @@
             <name>2020-10-29 #8</name>
             <styleUrl>#60</styleUrl>
             <Point id="58">
-                <coordinates>-20,-50,0.0</coordinates>
+                <coordinates>-20,-50,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="64">
@@ -455,13 +462,13 @@
             <LineString id="63">
                 <coordinates>-48.4167,-23.125,0.0 -20,-50,0.0</coordinates>
             </LineString>
-            <altitude>10000.0</altitude>
         </Placemark>
         <Placemark id="66">
             <name>2020-10-29 #9</name>
             <styleUrl>#67</styleUrl>
             <Point id="65">
-                <coordinates>-18,-50,0.0</coordinates>
+                <coordinates>-18,-50,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="71">
@@ -475,7 +482,8 @@
             <name>2020-10-29 #10</name>
             <styleUrl>#74</styleUrl>
             <Point id="72">
-                <coordinates>-16,-50,0.0</coordinates>
+                <coordinates>-16,-50,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="78">
@@ -489,7 +497,8 @@
             <name>2020-10-29 #11</name>
             <styleUrl>#81</styleUrl>
             <Point id="79">
-                <coordinates>-14,-49,0.0</coordinates>
+                <coordinates>-14,-49,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="85">
@@ -503,7 +512,8 @@
             <name>2020-10-29 #12</name>
             <styleUrl>#88</styleUrl>
             <Point id="86">
-                <coordinates>-12,-48,0.0</coordinates>
+                <coordinates>-12,-48,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="92">
@@ -517,7 +527,8 @@
             <name>2020-10-29 #13</name>
             <styleUrl>#95</styleUrl>
             <Point id="93">
-                <coordinates>-10,-48,0.0</coordinates>
+                <coordinates>-10,-48,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="99">
@@ -531,7 +542,8 @@
             <name>2020-10-29 #14</name>
             <styleUrl>#102</styleUrl>
             <Point id="100">
-                <coordinates>-10,-47,0.0</coordinates>
+                <coordinates>-10,-47,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="106">
@@ -545,7 +557,8 @@
             <name>2020-10-29 #15</name>
             <styleUrl>#109</styleUrl>
             <Point id="107">
-                <coordinates>-8,-47,0.0</coordinates>
+                <coordinates>-8,-47,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="113">
@@ -559,7 +572,8 @@
             <name>2020-10-30 #16</name>
             <styleUrl>#116</styleUrl>
             <Point id="114">
-                <coordinates>0,-34,0.0</coordinates>
+                <coordinates>0,-34,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="120">
@@ -573,7 +587,8 @@
             <name>2020-10-30 #17</name>
             <styleUrl>#123</styleUrl>
             <Point id="121">
-                <coordinates>0,-33,0.0</coordinates>
+                <coordinates>0,-33,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="127">
@@ -587,7 +602,8 @@
             <name>2020-10-30 #18</name>
             <styleUrl>#130</styleUrl>
             <Point id="128">
-                <coordinates>-2,-33,0.0</coordinates>
+                <coordinates>-2,-33,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="134">
@@ -601,7 +617,8 @@
             <name>2020-10-30 #19</name>
             <styleUrl>#137</styleUrl>
             <Point id="135">
-                <coordinates>-2,-32,0.0</coordinates>
+                <coordinates>-2,-32,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="141">
@@ -615,7 +632,8 @@
             <name>2020-10-31 #20</name>
             <styleUrl>#144</styleUrl>
             <Point id="142">
-                <coordinates>-10,-28,0.0</coordinates>
+                <coordinates>-10,-28,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="148">
@@ -629,7 +647,8 @@
             <name>2020-10-31 #21</name>
             <styleUrl>#151</styleUrl>
             <Point id="149">
-                <coordinates>-10,-26,0.0</coordinates>
+                <coordinates>-10,-26,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="155">
@@ -643,7 +662,8 @@
             <name>2020-10-31 #22</name>
             <styleUrl>#158</styleUrl>
             <Point id="156">
-                <coordinates>-8,-26,3000.0</coordinates>
+                <coordinates>-8,-26,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="162">
@@ -657,7 +677,8 @@
             <name>2020-10-31 #23</name>
             <styleUrl>#165</styleUrl>
             <Point id="163">
-                <coordinates>-6,-26,0.0</coordinates>
+                <coordinates>-6,-26,10000</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="169">
@@ -728,7 +749,7 @@
             <description>LU1ESY Flight Path</description>
             <styleUrl>#212</styleUrl>
             <LineString id="210">
-                <coordinates>-52,-38,0.0 -52,-39,0.0 -52,-40,0.0 -50,-40,0.0 -50,-41,0.0 -24,-51,0.0 -22,-51,0.0 -20,-51,0.0 -20,-50,0.0 -18,-50,0.0 -16,-50,0.0 -14,-49,0.0 -12,-48,0.0 -10,-48,0.0 -10,-47,0.0 -8,-47,0.0 0,-34,0.0 0,-33,0.0 -2,-33,0.0 -2,-32,0.0 -10,-28,0.0 -10,-26,0.0 -8,-26,0.0 -6,-26,0.0</coordinates>
+                <coordinates>-52,-38,10000 -52,-39,10000 -52,-40,10000 -50,-40,10000 -50,-41,10000 -24,-51,10000 -22,-51,10000 -20,-51,10000 -20,-50,10000 -18,-50,10000 -16,-50,10000 -14,-49,10000 -12,-48,10000 -10,-48,10000 -10,-47,10000 -8,-47,10000 0,-34,10000 0,-33,10000 -2,-33,10000 -2,-32,10000 -10,-28,10000 -10,-26,10000 -8,-26,10000 -6,-26,10000</coordinates>
             </LineString>
         </Placemark>
     </Document>

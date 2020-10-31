@@ -17,19 +17,25 @@ if __name__ == '__main__':
     # Points
     path_points = []
     point_id = 0
+    line_id = 0
     one_grid_only = []
     reporters = {}
     for line in lines[1:]:
             fields = line.strip().split(",")
             print(fields)
             if fields[6] in one_grid_only:
+                line_id = line_id + 1
                 continue
-            path_points.append((fields[8], fields[7]))
+            path_points.append((fields[8], fields[7], 10000))
             day = fields[16].split()[0]
-            pnt = kml.newpoint(name=day + " #" +str(point_id), coords=[(fields[8], fields[7])])
-            pnt.style.iconstyle.scale = 3  # Icon thrice as big
+            pnt = kml.newpoint(name=day + " #" +str(point_id), coords=[(fields[8], fields[7], 10000)], altitudemode="absolute")
+            pnt.style.iconstyle.scale = 3
             # For more icons see http://kml4earth.appspot.com/icons.html#kml-icons
             pnt.style.iconstyle.icon.href = 'http://earth.google.com/images/kml-icons/track-directional/track-none.png'
+            line_id = line_id + 1
+            if len(lines)-1 == line_id:
+                pnt.style.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/paddle/red-stars.png'
+                pnt.style.iconstyle.scale = 6
             point_id = point_id + 1
             one_grid_only.append(fields[6])
 
@@ -41,7 +47,7 @@ if __name__ == '__main__':
     for rpt_call, rpt_data in reporters.items():
         print(rpt_call, rpt_data)
         pnt = kml.newpoint(name=rpt_call, coords=[rpt_data])
-        pnt.style.iconstyle.scale = 3  # Icon thrice as big
+        pnt.style.iconstyle.scale = 3
         pnt.style.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/paddle/grn-blank.png'
 
     lin = kml.newlinestring(name="LU1ESY", description="LU1ESY Flight Path", coords=path_points)
